@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**taymassai/taymassai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <h2></h2><br> -->
 
-Here are some ideas to get you started:
+<p align="center">
+    <samp>
+      [<a href="mailto:taynaramassai@gmail.com">e-mail</a>]
+      [<a href="https://br.pinterest.com/taymassai/">pinterest</a>]
+      [<a href="https://www.linkedin.com/in/tmassai/">linkedin</a>]
+    </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2></h2><br>
+
+```
+curl -sL "https://github.com/taymassai.gpg" | gpg --import
+```
+
+```console
+“Make it work, make it right, make it fast.” – Kent Beck
+```
+</div>
