@@ -5,7 +5,7 @@
 <p align="center">
     <samp>
       [<a href="mailto:taynaramassai@gmail.com">e-mail</a>]
-      [<a href="https://br.pinterest.com/taymassai/">pinterest</a>]
+      [<a href="https://beacons.ai/taymassai">beacons</a>]
       [<a href="https://www.linkedin.com/in/tmassai/">linkedin</a>]
     </samp>
 </p>
